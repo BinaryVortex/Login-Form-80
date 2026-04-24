@@ -2,7 +2,6 @@
 
 Login Form Built Using HTML, CSS and JavaScript.
 
-![Login Form Screenshot](./Screenshot 2024-07-31 080723.png)
 
 ## Table of Contents
 - [About](#about)
