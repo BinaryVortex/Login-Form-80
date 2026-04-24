@@ -2,6 +2,9 @@
 
 Login Form Built Using HTML, CSS and JavaScript.
 
+<!-- Embedded screenshot (uses raw.githubusercontent URL to ensure rendering) -->
+
+![Login Form Screenshot](https://raw.githubusercontent.com/BinaryVortex/Login-Form-80/main/Screenshot%202024-07-31%20080723.png)
 
 ## Table of Contents
 - [About](#about)
@@ -27,7 +30,7 @@ This repository contains a simple, responsive login form created with plain HTML
 
 The screenshot below shows the login form as rendered in a browser:
 
-![Preview](./Screenshot 2024-07-31 080723.png)
+![Preview](https://raw.githubusercontent.com/BinaryVortex/Login-Form-80/main/Screenshot%202024-07-31%20080723.png)
 
 ## Getting Started
 
@@ -64,7 +67,6 @@ Created by BinaryVortex.
 ---
 
 If you'd like, I can also:
-- Add a live demo link (GitHub Pages) and configure publishing.
-- Improve accessibility (labels, ARIA attributes) and keyboard support.
-- Add unit tests or a simple server-side authentication example.
-
+- Rename the screenshot to a simpler filename (e.g., `screenshot.png`) and update the README accordingly.
+- Add a LICENSE (MIT or another) and commit it.
+- Enable GitHub Pages for a live demo and add the link to the README.
